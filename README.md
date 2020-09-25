@@ -1,3 +1,3 @@
 # rock_paper_scissor
 
-Small rock paper scissor
+Rock Paper Scissor game made in Python.
