@@ -3,6 +3,7 @@ import random
 
 print("Hey! Let's play Rock Paper Scissor Game!")
 
+# While loop to continue playing game.
 while True:
     print()
     print('====================')
