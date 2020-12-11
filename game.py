@@ -36,7 +36,7 @@ while True:
     print("--------------------------")
     print()
 
-    # Decide Who wins and declare winner.
+    # Decide Who wins and declare winner
     if selection == 'rock' and comp_choice == 'paper' or selection == 'paper' and comp_choice == 'scissor' or selection == "scissor" and comp_choice == 'rock':
         print("YOU LOSE!!!!")
     elif selection == 'rock' and comp_choice == 'scissor' or selection == 'paper' and comp_choice == 'rock' or selection == 'scissor' and comp_choice == 'paper':
